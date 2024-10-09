@@ -1,12 +1,9 @@
 {
-    "name": "luvi-ui/laravel-luvi",
+    "name": "songfeeler/ui",
     "description": "Re-usable components for Laravel",
     "keywords": [
-        "luvi-ui",
-        "laravel",
-        "laravel-luvi"
     ],
-    "homepage": "https://github.com/luvi-ui/laravel-luvi",
+    "homepage": "https://github.com/songfeeler/ui",
     "license": "MIT",
     "require": {
         "php": "^8.2",
